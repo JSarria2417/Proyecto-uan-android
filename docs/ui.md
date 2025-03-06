@@ -2,9 +2,11 @@
 
 La aplicación tendrá la siguientes pantallas
 
-1. Pantalla 1: Lorem Ipsum Dolor
+Flappy Sonic
+1. Pantalla 1: Inicio
 
-![screen1](images/waze_app_screenshot.jpg)
+![screen1](![Captura de pantalla (7)](https://github.com/user-attachments/assets/91184ea1-83b4-4f11-a349-0622524466cf)
+)
 
 # Referencias
 
