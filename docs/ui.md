@@ -5,7 +5,8 @@ La aplicación tendrá la siguientes pantallas
 Flappy Sonic
 1. Pantalla 1: Inicio
 
-![screen1]![Simple Beige Background Sparrow Illustration For Bird Lovers Phone Wallpaper](https://github.com/user-attachments/assets/c3ec4cc5-cf39-4fff-a8eb-dc14191d9952)
+![Simple Beige Background Sparrow Illustration For Bird Lovers Phone Wallpaper](https://github.com/user-attachments/assets/a8c9aa1e-a7c1-4535-ad28-f06b922a5803)
+
 
 2. Pantalla 2: In-game
 
