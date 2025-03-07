@@ -14,7 +14,17 @@ Flappy Sonic
 ![Simple Beige Background Sparrow Illustration For Bird Lovers Phone Wallpaper (1)](https://github.com/user-attachments/assets/8b55bbd2-c161-4bce-a8d7-f800398bc01e)
 
 
+AfinGuitar
+1. Pantalla 1: Inicio
+
+![White Modern Music Day Instagram Story](https://github.com/user-attachments/assets/356cec2d-000b-48b3-b9d5-33eda254d1dd)
+
+2. Pantalla 2: Afinacion
+
+![White Modern Music Day Instagram Story (1)](https://github.com/user-attachments/assets/63446139-ffc0-4cfa-8f11-15ddc5fa4921)
+
+
 # Referencias
 
-- [Material Design: Foundations]https://www.canva.com
+- Material Design: https://www.canva.com
 
