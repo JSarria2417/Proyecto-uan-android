@@ -4,7 +4,10 @@ la aplicación sería un juego tipo flappy bird, en donde controlas un personaje
 
 la aplicación utilizaría el micrófono del dispositivo para detectar el sonido de las cuerdas de la guitarra y según la frecuencia de sonido analizar si estan en afinación ideal (EADGBE para afinación estándar) luego claramente mostar si la cuerda esta demasiado baja o demasiado alta, tambien incluir otros tipos de frecuencia de sonido para poder afinar la guitarra en otros tipos de afinación
 
-Author: Juan Sarria
+Author: 
+Juan Sarria
+James Sarmiento
+John Casallas
 
 ## Referencias
 
