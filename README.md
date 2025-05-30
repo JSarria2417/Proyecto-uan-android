@@ -16,4 +16,4 @@ John Casallas
 - [Diseño de la interfaz de usuario](docs/ui.md)
 
 ## Presentación
-- [Presentación](docs/Yellow and Pink Gradient Simple Abstract Mobile Apps Presentation.md)
+- [Presentación](docs/Yellow and Pink Gradient Simple Abstract Mobile Apps Presentation.pdf)
