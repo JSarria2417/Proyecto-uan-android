@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+<<<<<<<< HEAD (Current Change)
+local.properties
+>>>>>>> 1cdfab179998e18a88c51770460289219a0a8a26 (Incoming Change)
